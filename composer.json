@@ -22,6 +22,9 @@
             "Coinflip\\Tests\\": "tests/"
         }
     },
+    "bin": [
+        "bin/coinflip.php"
+    ],
     "scripts": {
         "test": "phpunit"
     }
